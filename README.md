@@ -10,7 +10,11 @@ Forkable tools of the Code for Croatia local groups
 
 [Sunlight Labs Pupa](https://github.com/opencivicdata/pupa) - A legislative data scraping framework, used for scraping municipal data
 
-#Testing grounds
+#Development environments
+
+[GitHub Pages](http://pages.github.com) - Host static pages by pushing files to a GitHub repository. If you're a developer, this is for you.
+
+[Heroku](https://www.heroku.com/) - Multi-language cloud platform and hosting environment. Everything you need to deploy web apps.
 
 [OpenShift](https://www.openshift.com/) - Host your applications in the public cloud. OpenShift Online automates the provisioning, management and scaling of applications so that you can focus on development and creativity.
 
