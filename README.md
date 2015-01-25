@@ -17,5 +17,3 @@ Forkable tools of the Code for Croatia local groups
 [Heroku](https://www.heroku.com/) - Multi-language cloud platform and hosting environment. Everything you need to deploy web apps.
 
 [OpenShift](https://www.openshift.com/) - Host your applications in the public cloud. OpenShift Online automates the provisioning, management and scaling of applications so that you can focus on development and creativity.
-
-OpenShift is Red Hat's Platform-as-a-Service (PaaS) that allows developers to quickly develop, host, and scale applications in a cloud environment. With OpenShift you have choice of offerings, including online, on premise, and open source project options.
