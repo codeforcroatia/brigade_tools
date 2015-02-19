@@ -1,4 +1,4 @@
-<img src="http://codeforamerica.org/wp-content/uploads/2012/01/CfA_Brigade_logo.png" width="270px" height="102px;"/>
+<img src="https://raw.githubusercontent.com/codeforcroatia/codeforcroatia.github.io/master/images/cfc-logo_tn200.png" />
 [Title Goes Here]
 =================
 [GitHub link goes here]
